@@ -15,7 +15,7 @@
  *   -> full updated paper (same shape as above) OR { question, distribution?, warnings? }
  * Errors: FastAPI style { detail: "msg" | [{msg}] | {message, warnings:[...]} }                         */
 const API = (() => {
-  const BASE = 'http://localhost:8000';
+  const BASE = 'https://ai-internship-project.onrender.com';
   class ApiError extends Error { constructor(msg, warnings = []) { super(msg); this.warnings = warnings; } }
 
   async function request(path, { method = 'GET', body, timeout = 30000 } = {}) {
