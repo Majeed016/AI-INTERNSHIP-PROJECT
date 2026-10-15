@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PaperCraft – Smart Question Paper Generator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Source+Serif+4:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#3730a3"/><path d="M10 8h9l4 4v12H10z" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><path d="M13 16h7M13 20h5" stroke="#c7d2fe" stroke-width="2" stroke-linecap="round"/></svg>
+    <div>
+      <h1>PaperCraft</h1>
+      <p>Build balanced Maths and Science question papers by marks, difficulty, topic and question type.</p>
+    </div>
+  </div>
+  <div class="topbar-controls">
+    <div class="field inline">
+      <label for="subject">Subject</label>
+      <select id="subject"><option value="maths">Maths</option><option value="science">Science</option></select>
+    </div>
+    <span id="health" class="chip chip-wait" role="status" aria-live="polite">Checking backend…</span>
+  </div>
+</header>
+
+<main id="main" class="layout">
+  <form id="config" class="card config" novalidate>
+    <h2>Paper configuration</h2>
+
+    <div class="field">
+      <label for="totalMarks">Total marks</label>
+      <input id="totalMarks" type="number" min="1" max="500" step="1" value="50" inputmode="numeric" aria-describedby="err-total">
+      <p class="err" id="err-total"></p>
+    </div>
+
+    <fieldset class="group" data-group="difficulty">
+      <legend>Difficulty mix</legend>
+      <div class="grid3">
+        <div class="field"><label for="d-easy">Easy %</label><input id="d-easy" type="number" min="0" max="100" value="30"></div>
+        <div class="field"><label for="d-medium">Medium %</label><input id="d-medium" type="number" min="0" max="100" value="50"></div>
+        <div class="field"><label for="d-hard">Hard %</label><input id="d-hard" type="number" min="0" max="100" value="20"></div>
+      </div>
+      <div class="sum" aria-live="polite"></div><p class="err"></p>
+    </fieldset>
+
+    <fieldset class="group" data-group="types">
+      <legend>Question-type mix</legend>
+      <div class="grid3">
+        <div class="field"><label for="t-mcq">MCQ %</label><input id="t-mcq" type="number" min="0" max="100" value="30"></div>
+        <div class="field"><label for="t-short">Short %</label><input id="t-short" type="number" min="0" max="100" value="40"></div>
+        <div class="field"><label for="t-long">Long %</label><input id="t-long" type="number" min="0" max="100" value="30"></div>
+      </div>
+      <div class="sum" aria-live="polite"></div><p class="err"></p>
+    </fieldset>
+
+    <fieldset class="group" data-group="topics">
+      <legend>Topic weightage</legend>
+      <div id="topics" class="topics"></div>
+      <button type="button" id="addTopic" class="btn btn-ghost">+ Add topic</button>
+      <div class="sum" aria-live="polite"></div><p class="err"></p>
+    </fieldset>
+
+    <button type="submit" id="generate" class="btn btn-primary btn-block"><span class="spinner" aria-hidden="true"></span><span class="label">Generate paper</span></button>
+  </form>
+
+  <section class="results" aria-label="Results">
+    <div id="alerts" aria-live="polite"></div>
+
+    <div id="empty" class="card empty">
+      <h2>No paper yet</h2>
+      <p>Set your marks and distributions, then choose <strong>Generate paper</strong>. The paper is created by the backend at <code>http://localhost:8000</code>.</p>
+    </div>
+
+    <article id="paperCard" class="card paper-card" hidden>
+      <div class="paper-actions no-print">
+        <h2>Question paper</h2>
+        <div class="btnrow">
+          <button type="button" id="regen" class="btn btn-ghost">Regenerate</button>
+          <button type="button" id="print" class="btn btn-primary">Print / export PDF</button>
+        </div>
+      </div>
+      <div id="paper" class="paper"></div>
+    </article>
+
+    <section id="reportCard" class="card no-print" hidden>
+      <h2>Distribution report</h2>
+      <p class="muted">Requested vs actual share of total marks. Differences over 5 points are flagged.</p>
+      <div id="report"></div>
+    </section>
+  </section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
