@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "MATH001",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Solve: x + 3 = 15.",
+    "options": [
+      "x = 12",
+      "x = -12",
+      "x = 18",
+      "x = 13"
+    ],
+    "answer": "x = 12"
+  },
+  {
+    "id": "MATH002",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If 11x = 21, find x.",
+    "options": [
+      "x = 2",
+      "x = 0",
+      "x = 1",
+      "x = 32"
+    ],
+    "answer": "x = 1"
+  },
+  {
+    "id": "MATH003",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "How many degrees are in a right angle?",
+    "options": [
+      "180°",
+      "360°",
+      "90°",
+      "45°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "id": "MATH004",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the mean of 12, 21, and 11.",
+    "options": [
+      "14.6667",
+      "21",
+      "11",
+      "44"
+    ],
+    "answer": "14.6667"
+  },
+  {
+    "id": "MATH005",
+    "subject": "maths",
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "1/2",
+      "√3/2",
+      "0"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": "MATH006",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Factorise: x² − 6².",
+    "options": [
+      "(x + 6)²",
+      "(x − 6)(x + 6)",
+      "(x − 6)²",
+      "x² − 6"
+    ],
+    "answer": "(x − 6)(x + 6)"
+  },
+  {
+    "id": "MATH007",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A triangle has angles 31° and 53°. Find its third angle.",
+    "options": [
+      "96°",
+      "276°",
+      "84°",
+      "6°"
+    ],
+    "answer": "96°"
+  },
+  {
+    "id": "MATH008",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the median of 3, 17, 15 when arranged in ascending order.",
+    "options": [
+      "17",
+      "3",
+      "35",
+      "15"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "MATH009",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A fair die is rolled. What is the probability of getting a 8?",
+    "options": [
+      "1/3",
+      "1/2",
+      "1/6",
+      "1"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "id": "MATH010",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the HCF of 11 and 16?",
+    "options": [
+      "176",
+      "4",
+      "11",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "MATH011",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the LCM of 11 and 19?",
+    "options": [
+      "1",
+      "30",
+      "209",
+      "19"
+    ],
+    "answer": "209"
+  },
+  {
+    "id": "MATH012",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the area of a rectangle of length 12 cm and width 25 cm.",
+    "options": [
+      "300 cm²",
+      "74 cm²",
+      "600 cm²",
+      "37 cm²"
+    ],
+    "answer": "300 cm²"
+  },
+  {
+    "id": "MATH013",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the perimeter of a square with side 12 cm.",
+    "options": [
+      "24 cm",
+      "48 cm",
+      "144 cm",
+      "16 cm"
+    ],
+    "answer": "48 cm"
+  },
+  {
+    "id": "MATH014",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the x-coordinate of the point (6, 16)?",
+    "options": [
+      "6",
+      "-10",
+      "22",
+      "16"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "MATH015",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Solve: x + 10 = 19.",
+    "options": [
+      "x = 9",
+      "x = 10",
+      "x = -9",
+      "x = 29"
+    ],
+    "answer": "x = 9"
+  },
+  {
+    "id": "MATH016",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If 9x = 19, find x.",
+    "options": [
+      "x = 3",
+      "x = 2",
+      "x = 0",
+      "x = 28"
+    ],
+    "answer": "x = 2"
+  },
+  {
+    "id": "MATH017",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "How many degrees are in a right angle?",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "id": "MATH018",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the mean of 9, 25, and 3.",
+    "options": [
+      "25",
+      "37",
+      "12.3333",
+      "3"
+    ],
+    "answer": "12.3333"
+  },
+  {
+    "id": "MATH019",
+    "subject": "maths",
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the value of sin(30°)?",
+    "options": [
+      "√3/2",
+      "1/2",
+      "0",
+      "1"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": "MATH020",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Factorise: x² − 9².",
+    "options": [
+      "(x − 9)²",
+      "(x + 9)²",
+      "x² − 9",
+      "(x − 9)(x + 9)"
+    ],
+    "answer": "(x − 9)(x + 9)"
+  },
+  {
+    "id": "MATH021",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A triangle has angles 64° and 47°. Find its third angle.",
+    "options": [
+      "111°",
+      "249°",
+      "69°",
+      "-21°"
+    ],
+    "answer": "69°"
+  },
+  {
+    "id": "MATH022",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the median of 7, 24, 12 when arranged in ascending order.",
+    "options": [
+      "7",
+      "12",
+      "24",
+      "43"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "MATH023",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A fair die is rolled. What is the probability of getting a 6?",
+    "options": [
+      "1/6",
+      "1",
+      "1/3",
+      "1/2"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "id": "MATH024",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the HCF of 4 and 24?",
+    "options": [
+      "96",
+      "1",
+      "4",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "MATH025",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the LCM of 8 and 10?",
+    "options": [
+      "18",
+      "2",
+      "10",
+      "40"
+    ],
+    "answer": "40"
+  },
+  {
+    "id": "MATH026",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the area of a rectangle of length 12 cm and width 19 cm.",
+    "options": [
+      "456 cm²",
+      "62 cm²",
+      "31 cm²",
+      "228 cm²"
+    ],
+    "answer": "228 cm²"
+  },
+  {
+    "id": "MATH027",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the perimeter of a square with side 7 cm.",
+    "options": [
+      "11 cm",
+      "14 cm",
+      "49 cm",
+      "28 cm"
+    ],
+    "answer": "28 cm"
+  },
+  {
+    "id": "MATH028",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the x-coordinate of the point (11, 22)?",
+    "options": [
+      "-11",
+      "11",
+      "33",
+      "22"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "MATH029",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Solve: x + 8 = 20.",
+    "options": [
+      "x = -12",
+      "x = 13",
+      "x = 28",
+      "x = 12"
+    ],
+    "answer": "x = 12"
+  },
+  {
+    "id": "MATH030",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If 2x = 10, find x.",
+    "options": [
+      "x = 6",
+      "x = 12",
+      "x = 0",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "id": "MATH031",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "How many degrees are in a right angle?",
+    "options": [
+      "90°",
+      "45°",
+      "180°",
+      "360°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "id": "MATH032",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the mean of 4, 22, and 4.",
+    "options": [
+      "4",
+      "10",
+      "22",
+      "30"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "MATH033",
+    "subject": "maths",
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "√3/2",
+      "1/2",
+      "0"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": "MATH034",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Factorise: x² − 6².",
+    "options": [
+      "(x − 6)(x + 6)",
+      "x² − 6",
+      "(x − 6)²",
+      "(x + 6)²"
+    ],
+    "answer": "(x − 6)(x + 6)"
+  },
+  {
+    "id": "MATH035",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A triangle has angles 63° and 60°. Find its third angle.",
+    "options": [
+      "-33°",
+      "123°",
+      "57°",
+      "237°"
+    ],
+    "answer": "57°"
+  },
+  {
+    "id": "MATH036",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the median of 3, 11, 4 when arranged in ascending order.",
+    "options": [
+      "11",
+      "3",
+      "18",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "MATH037",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A fair die is rolled. What is the probability of getting a 7?",
+    "options": [
+      "1/6",
+      "1/2",
+      "1",
+      "1/3"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "id": "MATH038",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the HCF of 3 and 24?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "72"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "MATH039",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the LCM of 11 and 17?",
+    "options": [
+      "28",
+      "17",
+      "1",
+      "187"
+    ],
+    "answer": "187"
+  },
+  {
+    "id": "MATH040",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the area of a rectangle of length 8 cm and width 15 cm.",
+    "options": [
+      "46 cm²",
+      "120 cm²",
+      "240 cm²",
+      "23 cm²"
+    ],
+    "answer": "120 cm²"
+  },
+  {
+    "id": "MATH041",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the perimeter of a square with side 12 cm.",
+    "options": [
+      "144 cm",
+      "48 cm",
+      "16 cm",
+      "24 cm"
+    ],
+    "answer": "48 cm"
+  },
+  {
+    "id": "MATH042",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the x-coordinate of the point (6, 18)?",
+    "options": [
+      "18",
+      "-12",
+      "6",
+      "24"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "MATH043",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Solve: x + 8 = 18.",
+    "options": [
+      "x = 11",
+      "x = 26",
+      "x = -10",
+      "x = 10"
+    ],
+    "answer": "x = 10"
+  },
+  {
+    "id": "MATH044",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If 2x = 13, find x.",
+    "options": [
+      "x = 6",
+      "x = 15",
+      "x = 7",
+      "x = 0"
+    ],
+    "answer": "x = 6"
+  },
+  {
+    "id": "MATH045",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "How many degrees are in a right angle?",
+    "options": [
+      "180°",
+      "45°",
+      "90°",
+      "360°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "id": "MATH046",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the mean of 11, 20, and 7.",
+    "options": [
+      "12.6667",
+      "38",
+      "7",
+      "20"
+    ],
+    "answer": "12.6667"
+  },
+  {
+    "id": "MATH047",
+    "subject": "maths",
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "1/2",
+      "√3/2",
+      "0"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": "MATH048",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Factorise: x² − 7².",
+    "options": [
+      "(x − 7)²",
+      "(x − 7)(x + 7)",
+      "(x + 7)²",
+      "x² − 7"
+    ],
+    "answer": "(x − 7)(x + 7)"
+  },
+  {
+    "id": "MATH049",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A triangle has angles 64° and 51°. Find its third angle.",
+    "options": [
+      "245°",
+      "65°",
+      "-25°",
+      "115°"
+    ],
+    "answer": "65°"
+  },
+  {
+    "id": "MATH050",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the median of 3, 10, 10 when arranged in ascending order.",
+    "options": [
+      "23",
+      "3",
+      "4",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "MATH051",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A fair die is rolled. What is the probability of getting a 6?",
+    "options": [
+      "1/6",
+      "1",
+      "1/3",
+      "1/2"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "id": "MATH052",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the HCF of 7 and 22?",
+    "options": [
+      "7",
+      "1",
+      "4",
+      "154"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "MATH053",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the LCM of 4 and 11?",
+    "options": [
+      "15",
+      "44",
+      "1",
+      "11"
+    ],
+    "answer": "44"
+  },
+  {
+    "id": "MATH054",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the area of a rectangle of length 5 cm and width 7 cm.",
+    "options": [
+      "35 cm²",
+      "12 cm²",
+      "24 cm²",
+      "70 cm²"
+    ],
+    "answer": "35 cm²"
+  },
+  {
+    "id": "MATH055",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the perimeter of a square with side 7 cm.",
+    "options": [
+      "11 cm",
+      "28 cm",
+      "14 cm",
+      "49 cm"
+    ],
+    "answer": "28 cm"
+  },
+  {
+    "id": "MATH056",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the x-coordinate of the point (12, 22)?",
+    "options": [
+      "12",
+      "22",
+      "-10",
+      "34"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "MATH057",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Solve: x + 2 = 25.",
+    "options": [
+      "x = 27",
+      "x = 23",
+      "x = -23",
+      "x = 24"
+    ],
+    "answer": "x = 23"
+  },
+  {
+    "id": "MATH058",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If 5x = 23, find x.",
+    "options": [
+      "x = 4",
+      "x = 5",
+      "x = 0",
+      "x = 28"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "id": "MATH059",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "How many degrees are in a right angle?",
+    "options": [
+      "360°",
+      "90°",
+      "45°",
+      "180°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "id": "MATH060",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the mean of 7, 23, and 11.",
+    "options": [
+      "13.6667",
+      "41",
+      "23",
+      "7"
+    ],
+    "answer": "13.6667"
+  },
+  {
+    "id": "MATH061",
+    "subject": "maths",
+    "topic": "Trigonometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the value of sin(30°)?",
+    "options": [
+      "√3/2",
+      "0",
+      "1",
+      "1/2"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": "MATH062",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Factorise: x² − 8².",
+    "options": [
+      "(x − 8)²",
+      "(x + 8)²",
+      "x² − 8",
+      "(x − 8)(x + 8)"
+    ],
+    "answer": "(x − 8)(x + 8)"
+  },
+  {
+    "id": "MATH063",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A triangle has angles 38° and 36°. Find its third angle.",
+    "options": [
+      "74°",
+      "286°",
+      "16°",
+      "106°"
+    ],
+    "answer": "106°"
+  },
+  {
+    "id": "MATH064",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the median of 11, 17, 10 when arranged in ascending order.",
+    "options": [
+      "10",
+      "11",
+      "38",
+      "17"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "MATH065",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A fair die is rolled. What is the probability of getting a 4?",
+    "options": [
+      "1/2",
+      "1/6",
+      "1/3",
+      "1"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "id": "MATH066",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the HCF of 6 and 9?",
+    "options": [
+      "3",
+      "6",
+      "1",
+      "54"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "MATH067",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the LCM of 10 and 16?",
+    "options": [
+      "2",
+      "26",
+      "80",
+      "16"
+    ],
+    "answer": "80"
+  },
+  {
+    "id": "MATH068",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the area of a rectangle of length 11 cm and width 23 cm.",
+    "options": [
+      "68 cm²",
+      "253 cm²",
+      "506 cm²",
+      "34 cm²"
+    ],
+    "answer": "253 cm²"
+  },
+  {
+    "id": "MATH069",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Find the perimeter of a square with side 10 cm.",
+    "options": [
+      "14 cm",
+      "20 cm",
+      "40 cm",
+      "100 cm"
+    ],
+    "answer": "40 cm"
+  },
+  {
+    "id": "MATH070",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the x-coordinate of the point (3, 21)?",
+    "options": [
+      "-18",
+      "21",
+      "3",
+      "24"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "MATH071",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Solve the equation 6x + 5 = 32.",
+    "answer": "x = 4.5"
+  },
+  {
+    "id": "MATH072",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A triangle has base 11 cm and height 11 cm. Find its area.",
+    "answer": "60.5 cm²"
+  },
+  {
+    "id": "MATH073",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the mean of 3, 7, 30, 3.",
+    "answer": "10.75"
+  },
+  {
+    "id": "MATH074",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the area of a circle with radius 3 cm. Give the answer in terms of π.",
+    "answer": "9π cm²"
+  },
+  {
+    "id": "MATH075",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A bag has 6 red and 12 blue balls. Find the probability of drawing a red ball.",
+    "answer": "6/18"
+  },
+  {
+    "id": "MATH076",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Express 9/9 as a decimal.",
+    "answer": "1"
+  },
+  {
+    "id": "MATH077",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the midpoint of the points (10, 5) and (26, 12).",
+    "answer": "((36/2), (17/2))"
+  },
+  {
+    "id": "MATH078",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Solve the equation 9x + 11 = 26.",
+    "answer": "x = 1.66667"
+  },
+  {
+    "id": "MATH079",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A triangle has base 3 cm and height 3 cm. Find its area.",
+    "answer": "4.5 cm²"
+  },
+  {
+    "id": "MATH080",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the mean of 6, 12, 22, 4.",
+    "answer": "11"
+  },
+  {
+    "id": "MATH081",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the area of a circle with radius 7 cm. Give the answer in terms of π.",
+    "answer": "49π cm²"
+  },
+  {
+    "id": "MATH082",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A bag has 7 red and 7 blue balls. Find the probability of drawing a red ball.",
+    "answer": "7/14"
+  },
+  {
+    "id": "MATH083",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Express 7/4 as a decimal.",
+    "answer": "1.75"
+  },
+  {
+    "id": "MATH084",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the midpoint of the points (5, 7) and (26, 8).",
+    "answer": "((31/2), (15/2))"
+  },
+  {
+    "id": "MATH085",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Solve the equation 11x + 8 = 21.",
+    "answer": "x = 1.18182"
+  },
+  {
+    "id": "MATH086",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A triangle has base 9 cm and height 11 cm. Find its area.",
+    "answer": "49.5 cm²"
+  },
+  {
+    "id": "MATH087",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the mean of 6, 7, 18, 7.",
+    "answer": "9.5"
+  },
+  {
+    "id": "MATH088",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the area of a circle with radius 6 cm. Give the answer in terms of π.",
+    "answer": "36π cm²"
+  },
+  {
+    "id": "MATH089",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A bag has 10 red and 12 blue balls. Find the probability of drawing a red ball.",
+    "answer": "10/22"
+  },
+  {
+    "id": "MATH090",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Express 7/4 as a decimal.",
+    "answer": "1.75"
+  },
+  {
+    "id": "MATH091",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the midpoint of the points (6, 6) and (33, 9).",
+    "answer": "((39/2), (15/2))"
+  },
+  {
+    "id": "MATH092",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Solve the equation 12x + 8 = 27.",
+    "answer": "x = 1.58333"
+  },
+  {
+    "id": "MATH093",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A triangle has base 10 cm and height 7 cm. Find its area.",
+    "answer": "35 cm²"
+  },
+  {
+    "id": "MATH094",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the mean of 3, 12, 30, 12.",
+    "answer": "14.25"
+  },
+  {
+    "id": "MATH095",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the area of a circle with radius 12 cm. Give the answer in terms of π.",
+    "answer": "144π cm²"
+  },
+  {
+    "id": "MATH096",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A bag has 5 red and 8 blue balls. Find the probability of drawing a red ball.",
+    "answer": "5/13"
+  },
+  {
+    "id": "MATH097",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Express 7/2 as a decimal.",
+    "answer": "3.5"
+  },
+  {
+    "id": "MATH098",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the midpoint of the points (2, 6) and (32, 6).",
+    "answer": "((34/2), (12/2))"
+  },
+  {
+    "id": "MATH099",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Solve the equation 4x + 7 = 33.",
+    "answer": "x = 6.5"
+  },
+  {
+    "id": "MATH100",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A triangle has base 11 cm and height 8 cm. Find its area.",
+    "answer": "44 cm²"
+  },
+  {
+    "id": "MATH101",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the mean of 7, 2, 16, 5.",
+    "answer": "7.5"
+  },
+  {
+    "id": "MATH102",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the area of a circle with radius 12 cm. Give the answer in terms of π.",
+    "answer": "144π cm²"
+  },
+  {
+    "id": "MATH103",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "A bag has 2 red and 5 blue balls. Find the probability of drawing a red ball.",
+    "answer": "2/7"
+  },
+  {
+    "id": "MATH104",
+    "subject": "maths",
+    "topic": "Number Systems",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Express 6/11 as a decimal.",
+    "answer": "0.545455"
+  },
+  {
+    "id": "MATH105",
+    "subject": "maths",
+    "topic": "Coordinate Geometry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Find the midpoint of the points (3, 10) and (21, 10).",
+    "answer": "((24/2), (20/2))"
+  },
+  {
+    "id": "MATH106",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 2x − 3 = 16.",
+    "answer": "x = 9.5; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH107",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 9 cm long and 5 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 45 cm²; perimeter = 28 cm."
+  },
+  {
+    "id": "MATH108",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 6 cm and height 3 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 108π cm³."
+  },
+  {
+    "id": "MATH109",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 10, 4, 15, 3, 12. Find the mean and median.",
+    "answer": "Mean = 8.8; median = 10."
+  },
+  {
+    "id": "MATH110",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 8 red, 2 blue and 17 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (2/27) × (8/26) = 0.0228."
+  },
+  {
+    "id": "MATH111",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 5x − 9 = 33.",
+    "answer": "x = 8.4; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH112",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 7 cm long and 7 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 49 cm²; perimeter = 28 cm."
+  },
+  {
+    "id": "MATH113",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 6 cm and height 9 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 324π cm³."
+  },
+  {
+    "id": "MATH114",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 9, 4, 12, 10, 15. Find the mean and median.",
+    "answer": "Mean = 10; median = 10."
+  },
+  {
+    "id": "MATH115",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 6 red, 9 blue and 18 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (9/33) × (6/32) = 0.0511."
+  },
+  {
+    "id": "MATH116",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 10x − 8 = 21.",
+    "answer": "x = 2.9; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH117",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 8 cm long and 3 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 24 cm²; perimeter = 22 cm."
+  },
+  {
+    "id": "MATH118",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 10 cm and height 6 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 600π cm³."
+  },
+  {
+    "id": "MATH119",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 10, 10, 31, 8, 19. Find the mean and median.",
+    "answer": "Mean = 15.6; median = 10."
+  },
+  {
+    "id": "MATH120",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 7 red, 12 blue and 22 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (12/41) × (7/40) = 0.0512."
+  },
+  {
+    "id": "MATH121",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 3x − 10 = 17.",
+    "answer": "x = 9; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH122",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 10 cm long and 10 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 100 cm²; perimeter = 40 cm."
+  },
+  {
+    "id": "MATH123",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 5 cm and height 2 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 50π cm³."
+  },
+  {
+    "id": "MATH124",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 8, 10, 28, 5, 20. Find the mean and median.",
+    "answer": "Mean = 14.2; median = 10."
+  },
+  {
+    "id": "MATH125",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 5 red, 6 blue and 34 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (6/45) × (5/44) = 0.0152."
+  },
+  {
+    "id": "MATH126",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 10x − 12 = 22.",
+    "answer": "x = 3.4; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH127",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 10 cm long and 11 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 110 cm²; perimeter = 42 cm."
+  },
+  {
+    "id": "MATH128",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 4 cm and height 11 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 176π cm³."
+  },
+  {
+    "id": "MATH129",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 4, 4, 33, 12, 5. Find the mean and median.",
+    "answer": "Mean = 11.6; median = 5."
+  },
+  {
+    "id": "MATH130",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 2 red, 6 blue and 21 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (6/29) × (2/28) = 0.0148."
+  },
+  {
+    "id": "MATH131",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 6x − 10 = 34.",
+    "answer": "x = 7.33333; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH132",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 9 cm long and 4 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 36 cm²; perimeter = 26 cm."
+  },
+  {
+    "id": "MATH133",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 4 cm and height 12 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 192π cm³."
+  },
+  {
+    "id": "MATH134",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 10, 2, 21, 6, 20. Find the mean and median.",
+    "answer": "Mean = 11.8; median = 10."
+  },
+  {
+    "id": "MATH135",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 7 red, 10 blue and 14 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (10/31) × (7/30) = 0.0753."
+  },
+  {
+    "id": "MATH136",
+    "subject": "maths",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Solve and verify: 4x − 7 = 16.",
+    "answer": "x = 5.75; substitute this value to verify both sides are equal."
+  },
+  {
+    "id": "MATH137",
+    "subject": "maths",
+    "topic": "Geometry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A rectangle is 2 cm long and 9 cm wide. Calculate its area and perimeter.",
+    "answer": "Area = 18 cm²; perimeter = 22 cm."
+  },
+  {
+    "id": "MATH138",
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A cylinder has radius 7 cm and height 11 cm. Find its volume in terms of π.",
+    "answer": "Volume = πr²h = 539π cm³."
+  },
+  {
+    "id": "MATH139",
+    "subject": "maths",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "The values are 7, 2, 17, 11, 10. Find the mean and median.",
+    "answer": "Mean = 9.4; median = 10."
+  },
+  {
+    "id": "MATH140",
+    "subject": "maths",
+    "topic": "Probability",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "A box contains 3 red, 8 blue and 33 green counters. Find the probability of selecting a blue counter, then a red counter without replacement.",
+    "answer": "Probability = (8/44) × (3/43) = 0.0127."
+  },
+  {
+    "id": "SCI001",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the SI unit of force?",
+    "options": [
+      "pascal",
+      "watt",
+      "joule",
+      "newton"
+    ],
+    "answer": "newton"
+  },
+  {
+    "id": "SCI002",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which instrument measures electric current?",
+    "options": [
+      "ammeter",
+      "thermometer",
+      "voltmeter",
+      "barometer"
+    ],
+    "answer": "ammeter"
+  },
+  {
+    "id": "SCI003",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which form of energy is stored in a stretched spring?",
+    "options": [
+      "chemical energy",
+      "nuclear energy",
+      "sound energy",
+      "elastic potential energy"
+    ],
+    "answer": "elastic potential energy"
+  },
+  {
+    "id": "SCI004",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the approximate speed of light in vacuum?",
+    "options": [
+      "3 × 10⁶ m/s",
+      "300 m/s",
+      "3 × 10⁸ m/s",
+      "1500 m/s"
+    ],
+    "answer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "SCI005",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical symbol for sodium?",
+    "options": [
+      "S",
+      "Na",
+      "N",
+      "So"
+    ],
+    "answer": "Na"
+  },
+  {
+    "id": "SCI006",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A solution with pH 3 is best described as:",
+    "options": [
+      "alkaline",
+      "acidic",
+      "neutral",
+      "pure water"
+    ],
+    "answer": "acidic"
+  },
+  {
+    "id": "SCI007",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas is released when an acid reacts with many metals?",
+    "options": [
+      "carbon dioxide",
+      "nitrogen",
+      "oxygen",
+      "hydrogen"
+    ],
+    "answer": "hydrogen"
+  },
+  {
+    "id": "SCI008",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which organelle is the main site of photosynthesis?",
+    "options": [
+      "nucleus",
+      "mitochondrion",
+      "ribosome",
+      "chloroplast"
+    ],
+    "answer": "chloroplast"
+  },
+  {
+    "id": "SCI009",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which blood cells help fight infections?",
+    "options": [
+      "white blood cells",
+      "platelets",
+      "plasma",
+      "red blood cells"
+    ],
+    "answer": "white blood cells"
+  },
+  {
+    "id": "SCI010",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the basic unit of heredity?",
+    "options": [
+      "gene",
+      "organ",
+      "cell",
+      "tissue"
+    ],
+    "answer": "gene"
+  },
+  {
+    "id": "SCI011",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "carbon dioxide",
+      "hydrogen",
+      "nitrogen",
+      "oxygen"
+    ],
+    "answer": "carbon dioxide"
+  },
+  {
+    "id": "SCI012",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If a vehicle travels 100 m in 20 s, what is its average speed?",
+    "options": [
+      "120 m/s",
+      "5 m/s",
+      "2000 m/s",
+      "0.2 m/s"
+    ],
+    "answer": "5 m/s"
+  },
+  {
+    "id": "SCI013",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical formula of water?",
+    "options": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "answer": "H₂O"
+  },
+  {
+    "id": "SCI014",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which part of a plant mainly absorbs water from soil?",
+    "options": [
+      "flower",
+      "stem",
+      "leaves",
+      "roots"
+    ],
+    "answer": "roots"
+  },
+  {
+    "id": "SCI015",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the SI unit of force?",
+    "options": [
+      "pascal",
+      "watt",
+      "joule",
+      "newton"
+    ],
+    "answer": "newton"
+  },
+  {
+    "id": "SCI016",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which instrument measures electric current?",
+    "options": [
+      "voltmeter",
+      "ammeter",
+      "barometer",
+      "thermometer"
+    ],
+    "answer": "ammeter"
+  },
+  {
+    "id": "SCI017",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which form of energy is stored in a stretched spring?",
+    "options": [
+      "elastic potential energy",
+      "chemical energy",
+      "sound energy",
+      "nuclear energy"
+    ],
+    "answer": "elastic potential energy"
+  },
+  {
+    "id": "SCI018",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the approximate speed of light in vacuum?",
+    "options": [
+      "1500 m/s",
+      "3 × 10⁶ m/s",
+      "3 × 10⁸ m/s",
+      "300 m/s"
+    ],
+    "answer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "SCI019",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical symbol for sodium?",
+    "options": [
+      "S",
+      "Na",
+      "So",
+      "N"
+    ],
+    "answer": "Na"
+  },
+  {
+    "id": "SCI020",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A solution with pH 3 is best described as:",
+    "options": [
+      "pure water",
+      "acidic",
+      "alkaline",
+      "neutral"
+    ],
+    "answer": "acidic"
+  },
+  {
+    "id": "SCI021",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas is released when an acid reacts with many metals?",
+    "options": [
+      "hydrogen",
+      "nitrogen",
+      "carbon dioxide",
+      "oxygen"
+    ],
+    "answer": "hydrogen"
+  },
+  {
+    "id": "SCI022",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which organelle is the main site of photosynthesis?",
+    "options": [
+      "ribosome",
+      "nucleus",
+      "chloroplast",
+      "mitochondrion"
+    ],
+    "answer": "chloroplast"
+  },
+  {
+    "id": "SCI023",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which blood cells help fight infections?",
+    "options": [
+      "plasma",
+      "platelets",
+      "white blood cells",
+      "red blood cells"
+    ],
+    "answer": "white blood cells"
+  },
+  {
+    "id": "SCI024",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the basic unit of heredity?",
+    "options": [
+      "organ",
+      "cell",
+      "gene",
+      "tissue"
+    ],
+    "answer": "gene"
+  },
+  {
+    "id": "SCI025",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "nitrogen",
+      "oxygen",
+      "hydrogen",
+      "carbon dioxide"
+    ],
+    "answer": "carbon dioxide"
+  },
+  {
+    "id": "SCI026",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If a vehicle travels 60 m in 10 s, what is its average speed?",
+    "options": [
+      "600 m/s",
+      "0.166667 m/s",
+      "6 m/s",
+      "70 m/s"
+    ],
+    "answer": "6 m/s"
+  },
+  {
+    "id": "SCI027",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical formula of water?",
+    "options": [
+      "H₂O",
+      "NaCl",
+      "CO₂",
+      "O₂"
+    ],
+    "answer": "H₂O"
+  },
+  {
+    "id": "SCI028",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which part of a plant mainly absorbs water from soil?",
+    "options": [
+      "leaves",
+      "stem",
+      "roots",
+      "flower"
+    ],
+    "answer": "roots"
+  },
+  {
+    "id": "SCI029",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the SI unit of force?",
+    "options": [
+      "newton",
+      "joule",
+      "pascal",
+      "watt"
+    ],
+    "answer": "newton"
+  },
+  {
+    "id": "SCI030",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which instrument measures electric current?",
+    "options": [
+      "barometer",
+      "voltmeter",
+      "thermometer",
+      "ammeter"
+    ],
+    "answer": "ammeter"
+  },
+  {
+    "id": "SCI031",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which form of energy is stored in a stretched spring?",
+    "options": [
+      "chemical energy",
+      "elastic potential energy",
+      "nuclear energy",
+      "sound energy"
+    ],
+    "answer": "elastic potential energy"
+  },
+  {
+    "id": "SCI032",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the approximate speed of light in vacuum?",
+    "options": [
+      "300 m/s",
+      "3 × 10⁶ m/s",
+      "1500 m/s",
+      "3 × 10⁸ m/s"
+    ],
+    "answer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "SCI033",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical symbol for sodium?",
+    "options": [
+      "N",
+      "S",
+      "So",
+      "Na"
+    ],
+    "answer": "Na"
+  },
+  {
+    "id": "SCI034",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A solution with pH 3 is best described as:",
+    "options": [
+      "alkaline",
+      "acidic",
+      "neutral",
+      "pure water"
+    ],
+    "answer": "acidic"
+  },
+  {
+    "id": "SCI035",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas is released when an acid reacts with many metals?",
+    "options": [
+      "hydrogen",
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide"
+    ],
+    "answer": "hydrogen"
+  },
+  {
+    "id": "SCI036",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which organelle is the main site of photosynthesis?",
+    "options": [
+      "mitochondrion",
+      "nucleus",
+      "chloroplast",
+      "ribosome"
+    ],
+    "answer": "chloroplast"
+  },
+  {
+    "id": "SCI037",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which blood cells help fight infections?",
+    "options": [
+      "white blood cells",
+      "red blood cells",
+      "platelets",
+      "plasma"
+    ],
+    "answer": "white blood cells"
+  },
+  {
+    "id": "SCI038",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the basic unit of heredity?",
+    "options": [
+      "gene",
+      "organ",
+      "cell",
+      "tissue"
+    ],
+    "answer": "gene"
+  },
+  {
+    "id": "SCI039",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "hydrogen",
+      "carbon dioxide",
+      "nitrogen",
+      "oxygen"
+    ],
+    "answer": "carbon dioxide"
+  },
+  {
+    "id": "SCI040",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If a vehicle travels 80 m in 20 s, what is its average speed?",
+    "options": [
+      "4 m/s",
+      "100 m/s",
+      "0.25 m/s",
+      "1600 m/s"
+    ],
+    "answer": "4 m/s"
+  },
+  {
+    "id": "SCI041",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical formula of water?",
+    "options": [
+      "NaCl",
+      "CO₂",
+      "H₂O",
+      "O₂"
+    ],
+    "answer": "H₂O"
+  },
+  {
+    "id": "SCI042",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which part of a plant mainly absorbs water from soil?",
+    "options": [
+      "leaves",
+      "flower",
+      "stem",
+      "roots"
+    ],
+    "answer": "roots"
+  },
+  {
+    "id": "SCI043",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the SI unit of force?",
+    "options": [
+      "pascal",
+      "newton",
+      "watt",
+      "joule"
+    ],
+    "answer": "newton"
+  },
+  {
+    "id": "SCI044",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which instrument measures electric current?",
+    "options": [
+      "barometer",
+      "voltmeter",
+      "ammeter",
+      "thermometer"
+    ],
+    "answer": "ammeter"
+  },
+  {
+    "id": "SCI045",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which form of energy is stored in a stretched spring?",
+    "options": [
+      "chemical energy",
+      "sound energy",
+      "nuclear energy",
+      "elastic potential energy"
+    ],
+    "answer": "elastic potential energy"
+  },
+  {
+    "id": "SCI046",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the approximate speed of light in vacuum?",
+    "options": [
+      "300 m/s",
+      "3 × 10⁸ m/s",
+      "1500 m/s",
+      "3 × 10⁶ m/s"
+    ],
+    "answer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "SCI047",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical symbol for sodium?",
+    "options": [
+      "So",
+      "Na",
+      "S",
+      "N"
+    ],
+    "answer": "Na"
+  },
+  {
+    "id": "SCI048",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A solution with pH 3 is best described as:",
+    "options": [
+      "acidic",
+      "pure water",
+      "neutral",
+      "alkaline"
+    ],
+    "answer": "acidic"
+  },
+  {
+    "id": "SCI049",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas is released when an acid reacts with many metals?",
+    "options": [
+      "oxygen",
+      "carbon dioxide",
+      "nitrogen",
+      "hydrogen"
+    ],
+    "answer": "hydrogen"
+  },
+  {
+    "id": "SCI050",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which organelle is the main site of photosynthesis?",
+    "options": [
+      "ribosome",
+      "nucleus",
+      "mitochondrion",
+      "chloroplast"
+    ],
+    "answer": "chloroplast"
+  },
+  {
+    "id": "SCI051",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which blood cells help fight infections?",
+    "options": [
+      "plasma",
+      "platelets",
+      "red blood cells",
+      "white blood cells"
+    ],
+    "answer": "white blood cells"
+  },
+  {
+    "id": "SCI052",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the basic unit of heredity?",
+    "options": [
+      "gene",
+      "tissue",
+      "organ",
+      "cell"
+    ],
+    "answer": "gene"
+  },
+  {
+    "id": "SCI053",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen",
+      "nitrogen"
+    ],
+    "answer": "carbon dioxide"
+  },
+  {
+    "id": "SCI054",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If a vehicle travels 150 m in 10 s, what is its average speed?",
+    "options": [
+      "15 m/s",
+      "160 m/s",
+      "0.0666667 m/s",
+      "1500 m/s"
+    ],
+    "answer": "15 m/s"
+  },
+  {
+    "id": "SCI055",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical formula of water?",
+    "options": [
+      "O₂",
+      "NaCl",
+      "H₂O",
+      "CO₂"
+    ],
+    "answer": "H₂O"
+  },
+  {
+    "id": "SCI056",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which part of a plant mainly absorbs water from soil?",
+    "options": [
+      "stem",
+      "flower",
+      "roots",
+      "leaves"
+    ],
+    "answer": "roots"
+  },
+  {
+    "id": "SCI057",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the SI unit of force?",
+    "options": [
+      "newton",
+      "pascal",
+      "joule",
+      "watt"
+    ],
+    "answer": "newton"
+  },
+  {
+    "id": "SCI058",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which instrument measures electric current?",
+    "options": [
+      "thermometer",
+      "voltmeter",
+      "barometer",
+      "ammeter"
+    ],
+    "answer": "ammeter"
+  },
+  {
+    "id": "SCI059",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which form of energy is stored in a stretched spring?",
+    "options": [
+      "sound energy",
+      "chemical energy",
+      "elastic potential energy",
+      "nuclear energy"
+    ],
+    "answer": "elastic potential energy"
+  },
+  {
+    "id": "SCI060",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the approximate speed of light in vacuum?",
+    "options": [
+      "1500 m/s",
+      "3 × 10⁶ m/s",
+      "300 m/s",
+      "3 × 10⁸ m/s"
+    ],
+    "answer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "SCI061",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical symbol for sodium?",
+    "options": [
+      "Na",
+      "So",
+      "S",
+      "N"
+    ],
+    "answer": "Na"
+  },
+  {
+    "id": "SCI062",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "A solution with pH 3 is best described as:",
+    "options": [
+      "neutral",
+      "pure water",
+      "acidic",
+      "alkaline"
+    ],
+    "answer": "acidic"
+  },
+  {
+    "id": "SCI063",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas is released when an acid reacts with many metals?",
+    "options": [
+      "hydrogen",
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide"
+    ],
+    "answer": "hydrogen"
+  },
+  {
+    "id": "SCI064",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which organelle is the main site of photosynthesis?",
+    "options": [
+      "chloroplast",
+      "nucleus",
+      "ribosome",
+      "mitochondrion"
+    ],
+    "answer": "chloroplast"
+  },
+  {
+    "id": "SCI065",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which blood cells help fight infections?",
+    "options": [
+      "white blood cells",
+      "red blood cells",
+      "platelets",
+      "plasma"
+    ],
+    "answer": "white blood cells"
+  },
+  {
+    "id": "SCI066",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the basic unit of heredity?",
+    "options": [
+      "organ",
+      "cell",
+      "gene",
+      "tissue"
+    ],
+    "answer": "gene"
+  },
+  {
+    "id": "SCI067",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "hydrogen",
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide"
+    ],
+    "answer": "carbon dioxide"
+  },
+  {
+    "id": "SCI068",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "If a vehicle travels 150 m in 15 s, what is its average speed?",
+    "options": [
+      "10 m/s",
+      "165 m/s",
+      "2250 m/s",
+      "0.1 m/s"
+    ],
+    "answer": "10 m/s"
+  },
+  {
+    "id": "SCI069",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "What is the chemical formula of water?",
+    "options": [
+      "O₂",
+      "CO₂",
+      "NaCl",
+      "H₂O"
+    ],
+    "answer": "H₂O"
+  },
+  {
+    "id": "SCI070",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "text": "Which part of a plant mainly absorbs water from soil?",
+    "options": [
+      "roots",
+      "stem",
+      "leaves",
+      "flower"
+    ],
+    "answer": "roots"
+  },
+  {
+    "id": "SCI071",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Define speed and write its formula.",
+    "answer": "Speed is distance travelled per unit time; speed = distance ÷ time."
+  },
+  {
+    "id": "SCI072",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State Ohm's law.",
+    "answer": "At constant temperature, current through a conductor is directly proportional to the potential difference across it; V = IR."
+  },
+  {
+    "id": "SCI073",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Differentiate between an element and a compound.",
+    "answer": "An element contains one type of atom; a compound contains two or more elements chemically combined in a fixed ratio."
+  },
+  {
+    "id": "SCI074",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is neutralisation? Give one example.",
+    "answer": "Neutralisation is the reaction of an acid with a base to form salt and water; for example HCl + NaOH → NaCl + H₂O."
+  },
+  {
+    "id": "SCI075",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State two functions of roots.",
+    "answer": "Roots anchor the plant and absorb water and mineral ions from the soil."
+  },
+  {
+    "id": "SCI076",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is photosynthesis? Write its word equation.",
+    "answer": "Plants use light energy to make glucose from carbon dioxide and water; carbon dioxide + water → glucose + oxygen (in light and chlorophyll)."
+  },
+  {
+    "id": "SCI077",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Give two causes and two effects of air pollution.",
+    "answer": "Causes include vehicle exhaust and industrial emissions; effects include respiratory problems and damage to ecosystems."
+  },
+  {
+    "id": "SCI078",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Define speed and write its formula.",
+    "answer": "Speed is distance travelled per unit time; speed = distance ÷ time."
+  },
+  {
+    "id": "SCI079",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State Ohm's law.",
+    "answer": "At constant temperature, current through a conductor is directly proportional to the potential difference across it; V = IR."
+  },
+  {
+    "id": "SCI080",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Differentiate between an element and a compound.",
+    "answer": "An element contains one type of atom; a compound contains two or more elements chemically combined in a fixed ratio."
+  },
+  {
+    "id": "SCI081",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is neutralisation? Give one example.",
+    "answer": "Neutralisation is the reaction of an acid with a base to form salt and water; for example HCl + NaOH → NaCl + H₂O."
+  },
+  {
+    "id": "SCI082",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State two functions of roots.",
+    "answer": "Roots anchor the plant and absorb water and mineral ions from the soil."
+  },
+  {
+    "id": "SCI083",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is photosynthesis? Write its word equation.",
+    "answer": "Plants use light energy to make glucose from carbon dioxide and water; carbon dioxide + water → glucose + oxygen (in light and chlorophyll)."
+  },
+  {
+    "id": "SCI084",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Give two causes and two effects of air pollution.",
+    "answer": "Causes include vehicle exhaust and industrial emissions; effects include respiratory problems and damage to ecosystems."
+  },
+  {
+    "id": "SCI085",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Define speed and write its formula.",
+    "answer": "Speed is distance travelled per unit time; speed = distance ÷ time."
+  },
+  {
+    "id": "SCI086",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State Ohm's law.",
+    "answer": "At constant temperature, current through a conductor is directly proportional to the potential difference across it; V = IR."
+  },
+  {
+    "id": "SCI087",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Differentiate between an element and a compound.",
+    "answer": "An element contains one type of atom; a compound contains two or more elements chemically combined in a fixed ratio."
+  },
+  {
+    "id": "SCI088",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is neutralisation? Give one example.",
+    "answer": "Neutralisation is the reaction of an acid with a base to form salt and water; for example HCl + NaOH → NaCl + H₂O."
+  },
+  {
+    "id": "SCI089",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State two functions of roots.",
+    "answer": "Roots anchor the plant and absorb water and mineral ions from the soil."
+  },
+  {
+    "id": "SCI090",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is photosynthesis? Write its word equation.",
+    "answer": "Plants use light energy to make glucose from carbon dioxide and water; carbon dioxide + water → glucose + oxygen (in light and chlorophyll)."
+  },
+  {
+    "id": "SCI091",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Give two causes and two effects of air pollution.",
+    "answer": "Causes include vehicle exhaust and industrial emissions; effects include respiratory problems and damage to ecosystems."
+  },
+  {
+    "id": "SCI092",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Define speed and write its formula.",
+    "answer": "Speed is distance travelled per unit time; speed = distance ÷ time."
+  },
+  {
+    "id": "SCI093",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State Ohm's law.",
+    "answer": "At constant temperature, current through a conductor is directly proportional to the potential difference across it; V = IR."
+  },
+  {
+    "id": "SCI094",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Differentiate between an element and a compound.",
+    "answer": "An element contains one type of atom; a compound contains two or more elements chemically combined in a fixed ratio."
+  },
+  {
+    "id": "SCI095",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is neutralisation? Give one example.",
+    "answer": "Neutralisation is the reaction of an acid with a base to form salt and water; for example HCl + NaOH → NaCl + H₂O."
+  },
+  {
+    "id": "SCI096",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State two functions of roots.",
+    "answer": "Roots anchor the plant and absorb water and mineral ions from the soil."
+  },
+  {
+    "id": "SCI097",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is photosynthesis? Write its word equation.",
+    "answer": "Plants use light energy to make glucose from carbon dioxide and water; carbon dioxide + water → glucose + oxygen (in light and chlorophyll)."
+  },
+  {
+    "id": "SCI098",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Give two causes and two effects of air pollution.",
+    "answer": "Causes include vehicle exhaust and industrial emissions; effects include respiratory problems and damage to ecosystems."
+  },
+  {
+    "id": "SCI099",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Define speed and write its formula.",
+    "answer": "Speed is distance travelled per unit time; speed = distance ÷ time."
+  },
+  {
+    "id": "SCI100",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State Ohm's law.",
+    "answer": "At constant temperature, current through a conductor is directly proportional to the potential difference across it; V = IR."
+  },
+  {
+    "id": "SCI101",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Differentiate between an element and a compound.",
+    "answer": "An element contains one type of atom; a compound contains two or more elements chemically combined in a fixed ratio."
+  },
+  {
+    "id": "SCI102",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is neutralisation? Give one example.",
+    "answer": "Neutralisation is the reaction of an acid with a base to form salt and water; for example HCl + NaOH → NaCl + H₂O."
+  },
+  {
+    "id": "SCI103",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "easy",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "State two functions of roots.",
+    "answer": "Roots anchor the plant and absorb water and mineral ions from the soil."
+  },
+  {
+    "id": "SCI104",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "What is photosynthesis? Write its word equation.",
+    "answer": "Plants use light energy to make glucose from carbon dioxide and water; carbon dioxide + water → glucose + oxygen (in light and chlorophyll)."
+  },
+  {
+    "id": "SCI105",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "short_answer",
+    "marks": 4,
+    "text": "Give two causes and two effects of air pollution.",
+    "answer": "Causes include vehicle exhaust and industrial emissions; effects include respiratory problems and damage to ecosystems."
+  },
+  {
+    "id": "SCI106",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the energy changes that occur when a ball is thrown vertically upward and then falls back.",
+    "answer": "As the ball rises, kinetic energy is converted into gravitational potential energy. At the highest point its speed is momentarily zero. As it falls, gravitational potential energy converts back into kinetic energy; air resistance dissipates some energy as heat and sound."
+  },
+  {
+    "id": "SCI107",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe a simple experiment to verify Ohm's law.",
+    "answer": "Connect a resistor, ammeter and variable power supply in series, with a voltmeter across the resistor. Vary the voltage, record current and voltage, and plot V against I. A straight line through the origin indicates V is proportional to I at constant temperature."
+  },
+  {
+    "id": "SCI108",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how you would separate a mixture of sand and salt.",
+    "answer": "Add water to dissolve the salt, filter the mixture to retain sand, wash and dry the sand, then evaporate the filtrate to recover salt crystals."
+  },
+  {
+    "id": "SCI109",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the difference between physical and chemical changes with two examples of each.",
+    "answer": "A physical change does not create a new substance, such as melting ice or cutting paper. A chemical change creates new substances, such as rusting iron or burning magnesium."
+  },
+  {
+    "id": "SCI110",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe the main stages of digestion in humans.",
+    "answer": "Food is ingested and mechanically broken down in the mouth; enzymes begin digestion. The stomach mixes food with acid and enzymes. The small intestine completes digestion and absorbs nutrients. The large intestine absorbs water and the remaining waste is eliminated."
+  },
+  {
+    "id": "SCI111",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how the structure of the lungs supports gas exchange.",
+    "answer": "The lungs contain many alveoli, providing a large surface area. Alveolar walls are thin and moist, and are surrounded by capillaries. Ventilation maintains concentration gradients so oxygen diffuses into blood and carbon dioxide diffuses out."
+  },
+  {
+    "id": "SCI112",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain three ways to conserve water at home and why conservation matters.",
+    "answer": "Repair leaks, use low-flow fixtures and collect rainwater for suitable uses. Conservation protects freshwater supplies, reduces energy used in water treatment and helps ecosystems during dry periods."
+  },
+  {
+    "id": "SCI113",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the energy changes that occur when a ball is thrown vertically upward and then falls back.",
+    "answer": "As the ball rises, kinetic energy is converted into gravitational potential energy. At the highest point its speed is momentarily zero. As it falls, gravitational potential energy converts back into kinetic energy; air resistance dissipates some energy as heat and sound."
+  },
+  {
+    "id": "SCI114",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe a simple experiment to verify Ohm's law.",
+    "answer": "Connect a resistor, ammeter and variable power supply in series, with a voltmeter across the resistor. Vary the voltage, record current and voltage, and plot V against I. A straight line through the origin indicates V is proportional to I at constant temperature."
+  },
+  {
+    "id": "SCI115",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how you would separate a mixture of sand and salt.",
+    "answer": "Add water to dissolve the salt, filter the mixture to retain sand, wash and dry the sand, then evaporate the filtrate to recover salt crystals."
+  },
+  {
+    "id": "SCI116",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the difference between physical and chemical changes with two examples of each.",
+    "answer": "A physical change does not create a new substance, such as melting ice or cutting paper. A chemical change creates new substances, such as rusting iron or burning magnesium."
+  },
+  {
+    "id": "SCI117",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe the main stages of digestion in humans.",
+    "answer": "Food is ingested and mechanically broken down in the mouth; enzymes begin digestion. The stomach mixes food with acid and enzymes. The small intestine completes digestion and absorbs nutrients. The large intestine absorbs water and the remaining waste is eliminated."
+  },
+  {
+    "id": "SCI118",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how the structure of the lungs supports gas exchange.",
+    "answer": "The lungs contain many alveoli, providing a large surface area. Alveolar walls are thin and moist, and are surrounded by capillaries. Ventilation maintains concentration gradients so oxygen diffuses into blood and carbon dioxide diffuses out."
+  },
+  {
+    "id": "SCI119",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain three ways to conserve water at home and why conservation matters.",
+    "answer": "Repair leaks, use low-flow fixtures and collect rainwater for suitable uses. Conservation protects freshwater supplies, reduces energy used in water treatment and helps ecosystems during dry periods."
+  },
+  {
+    "id": "SCI120",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the energy changes that occur when a ball is thrown vertically upward and then falls back.",
+    "answer": "As the ball rises, kinetic energy is converted into gravitational potential energy. At the highest point its speed is momentarily zero. As it falls, gravitational potential energy converts back into kinetic energy; air resistance dissipates some energy as heat and sound."
+  },
+  {
+    "id": "SCI121",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe a simple experiment to verify Ohm's law.",
+    "answer": "Connect a resistor, ammeter and variable power supply in series, with a voltmeter across the resistor. Vary the voltage, record current and voltage, and plot V against I. A straight line through the origin indicates V is proportional to I at constant temperature."
+  },
+  {
+    "id": "SCI122",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how you would separate a mixture of sand and salt.",
+    "answer": "Add water to dissolve the salt, filter the mixture to retain sand, wash and dry the sand, then evaporate the filtrate to recover salt crystals."
+  },
+  {
+    "id": "SCI123",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the difference between physical and chemical changes with two examples of each.",
+    "answer": "A physical change does not create a new substance, such as melting ice or cutting paper. A chemical change creates new substances, such as rusting iron or burning magnesium."
+  },
+  {
+    "id": "SCI124",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe the main stages of digestion in humans.",
+    "answer": "Food is ingested and mechanically broken down in the mouth; enzymes begin digestion. The stomach mixes food with acid and enzymes. The small intestine completes digestion and absorbs nutrients. The large intestine absorbs water and the remaining waste is eliminated."
+  },
+  {
+    "id": "SCI125",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how the structure of the lungs supports gas exchange.",
+    "answer": "The lungs contain many alveoli, providing a large surface area. Alveolar walls are thin and moist, and are surrounded by capillaries. Ventilation maintains concentration gradients so oxygen diffuses into blood and carbon dioxide diffuses out."
+  },
+  {
+    "id": "SCI126",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain three ways to conserve water at home and why conservation matters.",
+    "answer": "Repair leaks, use low-flow fixtures and collect rainwater for suitable uses. Conservation protects freshwater supplies, reduces energy used in water treatment and helps ecosystems during dry periods."
+  },
+  {
+    "id": "SCI127",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the energy changes that occur when a ball is thrown vertically upward and then falls back.",
+    "answer": "As the ball rises, kinetic energy is converted into gravitational potential energy. At the highest point its speed is momentarily zero. As it falls, gravitational potential energy converts back into kinetic energy; air resistance dissipates some energy as heat and sound."
+  },
+  {
+    "id": "SCI128",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe a simple experiment to verify Ohm's law.",
+    "answer": "Connect a resistor, ammeter and variable power supply in series, with a voltmeter across the resistor. Vary the voltage, record current and voltage, and plot V against I. A straight line through the origin indicates V is proportional to I at constant temperature."
+  },
+  {
+    "id": "SCI129",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how you would separate a mixture of sand and salt.",
+    "answer": "Add water to dissolve the salt, filter the mixture to retain sand, wash and dry the sand, then evaporate the filtrate to recover salt crystals."
+  },
+  {
+    "id": "SCI130",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the difference between physical and chemical changes with two examples of each.",
+    "answer": "A physical change does not create a new substance, such as melting ice or cutting paper. A chemical change creates new substances, such as rusting iron or burning magnesium."
+  },
+  {
+    "id": "SCI131",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe the main stages of digestion in humans.",
+    "answer": "Food is ingested and mechanically broken down in the mouth; enzymes begin digestion. The stomach mixes food with acid and enzymes. The small intestine completes digestion and absorbs nutrients. The large intestine absorbs water and the remaining waste is eliminated."
+  },
+  {
+    "id": "SCI132",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how the structure of the lungs supports gas exchange.",
+    "answer": "The lungs contain many alveoli, providing a large surface area. Alveolar walls are thin and moist, and are surrounded by capillaries. Ventilation maintains concentration gradients so oxygen diffuses into blood and carbon dioxide diffuses out."
+  },
+  {
+    "id": "SCI133",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain three ways to conserve water at home and why conservation matters.",
+    "answer": "Repair leaks, use low-flow fixtures and collect rainwater for suitable uses. Conservation protects freshwater supplies, reduces energy used in water treatment and helps ecosystems during dry periods."
+  },
+  {
+    "id": "SCI134",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the energy changes that occur when a ball is thrown vertically upward and then falls back.",
+    "answer": "As the ball rises, kinetic energy is converted into gravitational potential energy. At the highest point its speed is momentarily zero. As it falls, gravitational potential energy converts back into kinetic energy; air resistance dissipates some energy as heat and sound."
+  },
+  {
+    "id": "SCI135",
+    "subject": "science",
+    "topic": "Physics",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe a simple experiment to verify Ohm's law.",
+    "answer": "Connect a resistor, ammeter and variable power supply in series, with a voltmeter across the resistor. Vary the voltage, record current and voltage, and plot V against I. A straight line through the origin indicates V is proportional to I at constant temperature."
+  },
+  {
+    "id": "SCI136",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how you would separate a mixture of sand and salt.",
+    "answer": "Add water to dissolve the salt, filter the mixture to retain sand, wash and dry the sand, then evaporate the filtrate to recover salt crystals."
+  },
+  {
+    "id": "SCI137",
+    "subject": "science",
+    "topic": "Chemistry",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain the difference between physical and chemical changes with two examples of each.",
+    "answer": "A physical change does not create a new substance, such as melting ice or cutting paper. A chemical change creates new substances, such as rusting iron or burning magnesium."
+  },
+  {
+    "id": "SCI138",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Describe the main stages of digestion in humans.",
+    "answer": "Food is ingested and mechanically broken down in the mouth; enzymes begin digestion. The stomach mixes food with acid and enzymes. The small intestine completes digestion and absorbs nutrients. The large intestine absorbs water and the remaining waste is eliminated."
+  },
+  {
+    "id": "SCI139",
+    "subject": "science",
+    "topic": "Biology",
+    "difficulty": "hard",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain how the structure of the lungs supports gas exchange.",
+    "answer": "The lungs contain many alveoli, providing a large surface area. Alveolar walls are thin and moist, and are surrounded by capillaries. Ventilation maintains concentration gradients so oxygen diffuses into blood and carbon dioxide diffuses out."
+  },
+  {
+    "id": "SCI140",
+    "subject": "science",
+    "topic": "Environment",
+    "difficulty": "medium",
+    "type": "long_answer",
+    "marks": 6,
+    "text": "Explain three ways to conserve water at home and why conservation matters.",
+    "answer": "Repair leaks, use low-flow fixtures and collect rainwater for suitable uses. Conservation protects freshwater supplies, reduces energy used in water treatment and helps ecosystems during dry periods."
+  }
+]
