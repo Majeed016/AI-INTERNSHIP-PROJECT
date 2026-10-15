@@ -26,8 +26,11 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5500",
         "http://127.0.0.1:5500",
-        "https://ai-internship-project-frontend.vercel.app/",
+        "https://ai-internship-project-frontend.vercel.app",
+        "https://ai-internship-project-frontend-3inb1h7x7.vercel.app",
+        "https://ai-internship-project-3inb1h7x7.vercel.app",
     ],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
